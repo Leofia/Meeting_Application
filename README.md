@@ -4,13 +4,13 @@ This is a Java-based console application designed to manage personal appointment
 
 ## Table of Contents
 
-1.  [Introduction](#introduction)
-2.  [Features](#features)
-3.  [Technologies Used](#technologies-used)
-4.  [How to Run the Application](#how-to-run-the-application)
+1.  [Introduction](#1.-Introduction)
+2.  [Features](#2.-Features)
+3.  [Technologies Used](#3.-Technologies-Used)
+4.  [How to Run the Application](#4.-How-to-Run-the-Application)
     *   [Prerequisites](#prerequisites)
     *   [Step-by-Step Instructions](#step-by-step-instructions)
-5.  [Project Structure](#project-structure)
+5.  [Project Structure](#5.-Project-Structure)
 
 ## 1. Introduction
 
